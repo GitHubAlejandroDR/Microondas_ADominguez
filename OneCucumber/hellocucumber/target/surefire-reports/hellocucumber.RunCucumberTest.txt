@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: hellocucumber.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.483 s <<< FAILURE! - in hellocucumber.RunCucumberTest
+Is it Friday yet?.Friday is Friday  Time elapsed: 0.033 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <TGIF> but was: <Nope>
+
